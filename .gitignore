@@ -1,0 +1,11 @@
+
+---
+
+## 6️⃣ .gitignore
+
+**File:** `.gitignore`
+
+```gitignore
+__pycache__/
+.env
+*.log
