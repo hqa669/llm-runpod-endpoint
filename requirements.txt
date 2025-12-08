@@ -1,3 +1,4 @@
 vllm==0.4.2
 transformers==4.40.2
 requests
+hf_transfer
