@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -e
 
 MODEL_NAME="meta-llama/Llama-3.1-8B-Instruct"
 # MODEL_NAME="meta-llama/Llama-3.1-8B-Instruct-AWQ"
